@@ -11,7 +11,7 @@ export default class home extends Component {
   <main id="home">
     <h1 className="lg-heading">
       Dabbara
-      <span >Nagarjuna</span>
+      <span> Nagarjuna</span>
     </h1>
     <h2 className="line-1 anim-typewriter"> Full-stack Developer & Designer.</h2>
     <p><strong> ReactJS&Redux | Angular8 | HTML5 | CSS3 | SASS | Bootstrap | AngularMaterialDesign | ReactMaterialDesign | Javascript/ES7 | Nodejs | Express | MongoDB </strong></li>
