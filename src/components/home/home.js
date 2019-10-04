@@ -14,11 +14,8 @@ export default class home extends Component {
       <span >Nagarjuna</span>
     </h1>
     <h2 className="line-1 anim-typewriter"> Full-stack Developer & Designer.</h2>
-    <p><strong> HTML5 | CSS3 | SAAS | Bootstrap | JavaScript | React | Angular 8 | React & Angular Material Design | NodeJS | Express | MongoDB</strong></p>
+    <p><strong> HTML5 | CSS3 | SAAS | Bootstrap | JavaScript | React | Angular 8 | React & Angular Material Design | NodeJS | Express | MongoDB </strong></p>
     <div className="icons">
-      <a href="https://www.facebook.com/dnagarjuna.naidu.3">
-        <i className="fa fa-facebook fa-2x"></i>
-      </a>
       <a href="https://www.linkedin.com/in/nagarjuna-chowdary-525451194">
         <i className="fa fa-linkedin fa-2x"></i>
       </a>
@@ -27,9 +24,7 @@ export default class home extends Component {
       </a>
     </div>
   </main>
-  </div>
-<Footer/>
-            </div>
+  </div> <Footer/> </div>
         )
     }
 }
