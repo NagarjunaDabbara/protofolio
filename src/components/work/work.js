@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import Footer from '../footer/footer';
 import Nav from '../nav/nav.js'
-
 import arjun from "../../assets/img/portrait1.jpg"
+
 export default class Work extends Component {
     render() {
         return (
@@ -17,7 +17,7 @@ export default class Work extends Component {
     <h2 className="sm-heading">
       Check out some of my projects...
     </h2>
-    <div className="projects">
+    <div className="Projects">
       <div className="item">
         <a href="#!">
           <img src={arjun} alt="Project"/>
@@ -29,10 +29,8 @@ export default class Work extends Component {
           <i className="fa fa-github"></i> Github
         </a>
       </div>
-      
       <div className="item">
         <a href="#!">
-  
           <img src={arjun} alt="Project"/>
         </a>
         <a href="#" className="btn-light">
@@ -68,8 +66,8 @@ export default class Work extends Component {
     </div>
   </main>
   </div>
-                <Footer/>
-            </div>
+     <Footer/>
+        </div>
         )
     }
 }
