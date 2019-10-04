@@ -55,16 +55,14 @@ export default class Resume extends Component {
                 <div className="job">
                   <div className="job-title-container">
                     <div>
-                      <p>Worked within teams of creative <u>"Freelancer"</u> to build the React & Angular 8 of professionally designed websites from the ground up, including coding websites (MERN-Stack,MEAN-Stack), designing UX, and fixing sites bugs.</p>
+                      <p>Worked within teams of creative <u>"Freelancer"</u> to build the applications using React & Angular 8 (MERN-Stack,MEAN-Stack). Professionally designed the websites from the ground up, including designing UX and fixing sites bugs.</p>
                      <ul>
-                      <li>Collaborating with 3+ agencies, developed websites for clients in the e-commerce, portfolio and blogging industries.</li>
+                      <li>Collaborating with 3 agencies, developed websites for clients in the e-commerce, portfolio and blogging industries.</li>
                       <li>Validated completed sites, including testing and debugging of code.</li>
                       <li>Responsible for quality assurance of finished websites, including validating web forms and links.</li>
                       </ul>
                     </div>
-                 
                   </div>
-                  
                 </div>
               </div>
             </section>
@@ -80,11 +78,10 @@ export default class Resume extends Component {
                     </div>
                     <div>
                       Jan 2015 - Jan 2018
-            </div>
-                  </div>
-                  <p>percentage:-75%</p>            </div>
-              </div>
-
+                   </div>
+                   </div>
+                      <p>percentage:-75%</p>            </div>
+                   </div>
               <div>
                 <div className="job">
                   <div className="job-title-container">
@@ -94,7 +91,7 @@ export default class Resume extends Component {
                     </div>
                     <div>
                       Jan 2013 - Jan 2015
-            </div>
+                    </div>
                   </div>
                   <p>percentage:73%</p>            </div>
               </div>
@@ -108,7 +105,7 @@ export default class Resume extends Component {
                     </div>
                     <div>
                       2011 - 2013
-            </div>
+                    </div>
                   </div>
                   <p>percentage:85%</p>            </div>
               </div>
@@ -127,25 +124,23 @@ export default class Resume extends Component {
 
                   <ul>
                     <li>Angular 8</li>
-                    <li>NodeJs </li>
-                    <li> ExpressJs</li>
+                    <li>NodeJS</li>
+                    <li>ExpressJS</li>
                     <li>MongoDB</li>
                   </ul>
                   
                   <div>
                   <div className="section-title">Additional Skills</div>
                    <ul>
-                  <li> VCS:GitHub</li>
-                    <li> Buliders: Webpack and Gulp</li>
-                    <li>Cloud services: Heroku and AWS </li>
-                    <li>Testing: Jest, Mocha, Chai and Cypress </li>
+                  <li>VCS:GitHub</li>
+                    <li>Buliders: Webpack and Gulp</li>
+                    <li>Cloud services: Heroku and AWS</li>
+                    <li>Testing: Jest, Mocha, Chai and Cypress.io</li>
                     <li>OS: linux and Windows</li>
                     <li>C language</li>
                   </ul>
                   </div>
                 </div>
-
-               
               </div>
             </section>
 
