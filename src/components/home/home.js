@@ -19,13 +19,13 @@ export default class home extends Component {
       <a href="#!">
         <i className="fa fa-twitter fa-2x"></i>
       </a>
-      <a href="https://www.facebook.com/saim.afridi.902">
+      <a href="https://www.facebook.com/dnagarjuna.naidu.3">
         <i className="fa fa-facebook fa-2x"></i>
       </a>
       <a href="#!">
         <i className="fa fa-linkedin fa-2x"></i>
       </a>
-      <a href="https://github.com/SeemabKhalil">
+      <a href="https://github.com/arjunchowdaryd">
         <i className="fa fa-github fa-2x"></i>
       </a>
     </div>
