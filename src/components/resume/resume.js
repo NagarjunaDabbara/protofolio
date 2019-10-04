@@ -39,7 +39,7 @@ export default class Resume extends Component {
 
                 <p>Iam highly creative,forward thinking professional with a multi-faceted background in User Experience, front-end, backend development and responsive design, programming for both static and dynamically loaded content.</p>
                 <ul>
-                    <li>Strong Knowledge of webtechnologies including <strong>-html|css|html5|css3|SASS|bootstrap|angularMaterialDesign|ReactMaterialDesign|Javascript&ES6|React|Angular8|Nodejs|Express|MongoDB.</strong></li>
+                    <li>Strong Knowledge of webtechnologies including <strong>- HTML5|CSS3|SASS|Bootstrap|AngularMaterialDesign|ReactMaterialDesign|Javascript/ES7|ReactJS|Angular8|Nodejs|Express|MongoDB.</strong></li>
                     <li>Strong Object oriented language concepts.</li>
                     <li>Buliding and Maintaining websites based on design and bussiness goals.</li>
                   </ul>
@@ -49,6 +49,9 @@ export default class Resume extends Component {
             <section>
               <div className="section-title">Experience</div>
               <div>
+                <div>
+                   Jan 2017 - Jan 2019
+                </div>
                 <div className="job">
                   <div className="job-title-container">
                     <div>
@@ -59,9 +62,7 @@ export default class Resume extends Component {
                       <li>Responsible for quality assurance of finished websites, including validating web forms and links.</li>
                       </ul>
                     </div>
-                    <div>
-                      Jan 2017 - Jan 2019
-            </div>
+                 
                   </div>
                   
                 </div>
