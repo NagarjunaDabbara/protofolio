@@ -13,7 +13,7 @@ export default class home extends Component {
       Dabbara
       <span> Nagarjuna</span>
     </h1>
-    <h2 className="ne-1 anim-typewriter"> Full-stack Developer & Designer.</h2>
+    <h2 className="line-1 anim-typewriter"> Full-stack Developer & Designer.</h2>
     <p><strong> ReactJS&Redux | Angular8 | HTML5 | CSS3 | SASS | Bootstrap | AngularMaterialDesign | ReactMaterialDesign | Javascript/ES7 | Nodejs | Express | MongoDB </strong></p>
     <div className="icons">
       <a href="https://www.linkedin.com/in/nagarjuna-chowdary-525451194">
