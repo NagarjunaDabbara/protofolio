@@ -21,10 +21,9 @@ export default class Work extends Component {
         <a href="#!"> <img src={arjun} alt="Project"/> </a>
         <a href="https://beachproject.herokuapp.com/" className="btn-light"> <i className="fa fa-eye"></i> Project</a>
         <a href="https://github.com/arjunchowdaryd/beachresort" className="btn-dark"> <i className="fa fa-github"></i> Github </a>
-      </div>
-                
-                
-    </div>             
+      </div>    
+    </div>  
+      <Footer/>
    </div>)
     }
 }
