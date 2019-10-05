@@ -16,7 +16,6 @@ export default class Work extends Component {
     <h2 className="sm-heading">
       Check out some of my projects...
     </h2>
-     </div>
-       </div>)
+     </div>)
     }
 }
