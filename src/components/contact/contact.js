@@ -18,7 +18,7 @@ export default class Contact extends Component {
     </h2>
     <div className="boxes">
       <div>
-        <span className="text-secondary">Email: </span> arjunchowdary@gmail.com
+        <span className="text-secondary">Email: </span> arjunchowdary335@gmail.com
       </div>
       <div>
         <span className="text-secondary">Phone: </span> +91-9381563895
