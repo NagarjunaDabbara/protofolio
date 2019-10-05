@@ -5,8 +5,6 @@ import arjun from "../../assets/img/portrait1.jpg"
 
 export default class Work extends Component {
     render() {
-        return (
-            
-        )
+        return ()
     }
 }
