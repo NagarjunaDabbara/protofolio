@@ -7,13 +7,8 @@ export default class Work extends Component {
     render() {
         return (<div> 
                 <Nav/>
-                
-    <h1 className="lg-heading">
-      My
-      <span className="text-secondary">Work</span>
-    </h1>
-    <h2 className="sm-heading">
-      Check out some of my projects...
-    </h2>)
+    <h1 className="lg-heading">My<span className="text-secondary">Work</span></h1>
+    <h2 className="sm-heading">Check out some of my projects...</h2>
+              </div>)
     }
 }
