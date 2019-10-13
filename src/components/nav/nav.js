@@ -40,34 +40,13 @@ export default class Nav extends Component {
         </li>
         <li className="nav-item current">
          <a href="/contact" className="nav-link">
-            How you Reach Me
+            Contact Me
           </a>
         </li>
       </ul>
     </nav>
- 
   </header>
-               
-   
-    
-       </div>
+</div>
         )
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

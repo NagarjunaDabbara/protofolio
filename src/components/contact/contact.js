@@ -18,15 +18,12 @@ export default class Contact extends Component {
     </h2>
     <div className="boxes">
       <div>
-        <span className="text-secondary">Email: </span> arjunchowdary@gmail.com
+        <span className="text-secondary">Email: </span> arjunchowdary335@gmail.com
       </div>
       <div>
-        <span className="text-secondary">Phone: </span> (+91) 9381563895
+        <span className="text-secondary">Phone: </span> +91-9381563895
       </div>
-      <div>
-          <span className="text-secondary">Address: </span>  Banglore
-      </div>
-     
+      <div> <span className="text-secondary">Address: </span>  Bangalore </div>
     </div>
    
     <div className="container">
@@ -48,14 +45,11 @@ export default class Contact extends Component {
           <button type="submit" className="btn btn-info mb-2" id="button">Submit</button>
         </div>
       </form>
-    </div>
-  
-         
+    </div> 
   </main>
   </div>
-
-           <Footer/>
-            </div>
+      <Footer/>
+        </div>
         )
     }
 }
