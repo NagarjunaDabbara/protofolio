@@ -10,11 +10,11 @@ export default class home extends Component {
 <div id="main">
   <main id="home">
     <h1 className="lg-heading">
-      Dabbara
-      <span >Nagarjuna</span>
+      Dabbara 
+      <span>Nagarjuna</span>
     </h1>
     <h2 className="line-1 anim-typewriter"> Full-stack Developer & designer.</h2>
-    <p><strong>HTML/CSS,HTML5,CSS3,SAAS | Bootstrap | JavaScript | React | Angular 8 |React& Angular Material Design| NodeJS | Express | MongoDB</strong></p>
+    <p><strong>HTML/CSS,HTML5,CSS3,SAAS | Bootstrap | JavaScript | React | Angular 8 | React& Angular Material Design| NodeJS | Express | MongoDB</strong></p>
     <div className="icons">
       <a href="#!">
         <i className="fa fa-twitter fa-2x"></i>
